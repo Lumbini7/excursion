@@ -23,3 +23,14 @@ h2 {
      color: white;
 
 }
+
+p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: Gray;
+}
+
+.copyright {
+             color: Gray;
+             text-align: right;
+}
